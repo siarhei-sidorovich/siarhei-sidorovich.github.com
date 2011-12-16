@@ -1,0 +1,12 @@
+form {
+	position: relative;
+}
+#search {
+	width: 300px;
+}
+#res {
+	position: absolute;
+	top: 21px;
+	left: -2px;
+	display: none;
+}
