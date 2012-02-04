@@ -1,12 +1,16 @@
-form {
-	position: relative;
-}
 #search {
 	width: 300px;
 }
 #res {
+	width: 304px;
+}
+
+.livesearch.form {
+	position: relative;
+}
+.livesearch.results {
+	display: none;
 	position: absolute;
 	top: 21px;
-	left: -2px;
-	display: none;
+	left: 0;
 }
